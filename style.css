@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: #000;
+    color:#fff;
+}
+.main-content{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.profile-img{
+    width: 650px;
+    height: 650px;
+}
+h1{
+    position: relative;
+    bottom: 170px;
+    left: 20px;
+    font-size: 60px;
+    color: #fff;
+    background: transparent;
+    line-height: 70px;
+}
+.imgg{
+    position: relative;
+    text-align: center;
+}
+h6{
+    position: relative;
+    bottom: 160px;
+    left: 20px;
+    font-size: 30px;
+    line-height: 40px;
+    background: transparent;
+    color: aqua;
+}
+h2{
+    font-size: 50px;
+    line-height: 60px;
+}
+h4{
+    font-size: 30px;
+    line-height: 40px;
+}
+h5{
+    font-size: 20px;
+    line-height: 30px;
+}
+ i{
+    color: aqua;
+}
+.fa{
+    font-size: 25px !important;
+    padding-top: 20px;
+}
